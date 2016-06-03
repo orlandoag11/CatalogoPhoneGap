@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.oap"
+version = "1.0.0">
+
+<name>Catalogo Aguilera</name>
+
+<description>
+En esta aplicacion muestra un catalogo de una variedad de autos, Chevrolet, Dodge y Honda.
+</description>
+
+<author href="https://www.instagram.com/orlandoaguilerap/" email="orlandoag11@gmail.com">
+Orlando Aguilera Padilla
+</author>
+
+<icon src="img/iconoring.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/iconoring.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/iconoring.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/iconoring.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
